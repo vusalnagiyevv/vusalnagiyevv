@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hi, I'm Vusal Naghiyev
+🚀 Backend Developer
 
-<!--
-**vusalnagiyevv/vusalnagiyevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 About Me
+🔭 Currently working with Java, Spring Boot, PostgreSQL
+🌱 Learning Microservices, CI/CD, Cloud Technologies
+💬 Ask me about Java, Spring Framework, REST API, Databases, OOP
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tech Stack
+Languages: Java, C#, JavaScript
+Frameworks & Libraries: Spring Boot, Spring Data JPA, Spring Security, Hibernate, Microservices, RESTful APIs
+Databases: PostgreSQL, MongoDB, Redis
+DevOps & Tools: Docker, GitHub Actions, PM2, Nginx
+Other: Git, REST API, Microservices, OOP
