@@ -9,7 +9,7 @@
 
 ### 🛠️ Tech Stack
 
-* **Languages:** Java (11/17/21)
+* **Languages:** Java (17/21)
 * **Frameworks & Libraries:** Spring Boot, Spring Data JPA, Spring Security, Hibernate, Microservices, RESTful APIs
 * **Databases:** PostgreSQL, MongoDB, Redis
 * **DevOps & Tools:** Docker, GitHub Actions, PM2, Nginx
